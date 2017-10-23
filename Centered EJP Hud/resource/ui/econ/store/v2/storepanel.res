@@ -136,6 +136,7 @@
 		"tabskv"
 		{
 			"textinsetx"		"15"
+			"textinsety"		"8"
 			"font"				"NeouB22"
 			"selectedcolor"		"BasBlueSolid"
 			"unselectedcolor"	"90 90 90 255"	
