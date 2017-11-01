@@ -183,7 +183,54 @@
                 "scaleImage"    "1"    
                 "image"                 "../vgui/bleed_drop"
                 "fgcolor"               "TanDark"
-        }              
+        }
+		"PlayerStatusSlowed"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"PlayerStatusSlowed"
+		 "xpos"                  "70"
+                "ypos"                  "12"
+                "zpos"                  "7"
+                "wide"                  "21"
+                "tall"                  "21"
+                "visible"               "1"
+                "enabled"               "1"
+                "scaleImage"    "1"    
+		"image"			"../vgui/slowed"
+		"fgcolor"		"TanDark"
+	}
+	
+	"PlayerStatusHookBleedImage"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"PlayerStatusHookBleedImage"
+		 "xpos"                  "70"
+                "ypos"                  "12"
+                "zpos"                  "7"
+                "wide"                  "21"
+                "tall"                  "21"
+                "visible"               "1"
+                "enabled"               "1"
+                "scaleImage"    "1"    
+		"image"			"../vgui/bleed_drop_grapple"
+		"fgcolor"		"TanDark"
+	}
+	
+	"PlayerStatusGasImage"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"PlayerStatusGasImage"
+		 "xpos"                  "70"
+                "ypos"                  "12"
+                "zpos"                  "7"
+                "wide"                  "21"
+                "tall"                  "21"
+                "visible"               "1"
+                "enabled"               "1"
+                "scaleImage"    "1"    
+		"image"			"../vgui/covered_in_gas"
+		"fgcolor"		"TanDark"
+	}
         "PlayerStatusMilkImage"
         {
                 "ControlName"   "ImagePanel"
