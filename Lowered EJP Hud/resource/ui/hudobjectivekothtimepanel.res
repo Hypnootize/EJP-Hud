@@ -30,7 +30,7 @@
 		if_match
 		{
 			"xpos"				"30"
-			"ypos"				"7"
+			"ypos"				"8"
 		}
 		
 		"TimePanelValue"
@@ -77,8 +77,8 @@
 		
 		if_match
 		{
-			"xpos"				"60"
-			"ypos"				"7"
+			"xpos"				"64"
+			"ypos"				"8"
 		}
 		
 		"TimePanelValue"

@@ -20,8 +20,7 @@
 		
 		if_match
 		{
-			"wide"			"0"
-			"visible"		"0"
+			"xpos"			"9999"
 		}
 	}
 	"NewBG"
@@ -39,8 +38,7 @@
 		
 		if_match
 		{
-			"wide"			"0"
-			"visible"		"0"
+			"xpos"			"9999"
 		}
 	}
 	"TimePanelProgressBar"
@@ -63,8 +61,7 @@
 		
 		if_match
 		{
-			"wide"			"0"
-			"visible"		"0"
+			"xpos"			"9999"
 		}
 	}
 	"WaitingForPlayersLabel"
@@ -88,8 +85,7 @@
 		
 		if_match
 		{
-			"wide"			"0"
-			"visible"		"0"
+			"xpos"			"9999"
 		}
 	}			
 	"WaitingForPlayersBG"
@@ -105,6 +101,11 @@
 		"enabled"		"0"
 		"image"			"../hud/objectives_timepanel_suddendeath"	
 		"scaleImage"		"1"	
+		
+		if_match
+		{
+			"xpos"			"9999"
+		}
 	}
 	"OvertimeLabel"
 	{
@@ -127,8 +128,7 @@
 		
 		if_match
 		{
-			"wide"			"0"
-			"visible"		"0"
+			"xpos"			"9999"
 		}
 	}			
 	"OvertimeBG"
@@ -147,8 +147,7 @@
 		
 		if_match
 		{
-			"wide"			"0"
-			"visible"		"0"
+			"xpos"			"9999"
 		}
 	}
 	"SuddenDeathLabel"
@@ -172,8 +171,7 @@
 		
 		if_match
 		{
-			"wide"			"0"
-			"visible"		"0"
+			"xpos"			"9999"
 		}
 	}			
 	"SuddenDeathBG"
@@ -192,8 +190,7 @@
 		
 		if_match
 		{
-			"wide"			"0"
-			"visible"		"0"
+			"xpos"			"9999"
 		}
 	}	
 	"SetupLabel"
@@ -214,10 +211,10 @@
 		"wrap"			"0"
 		"font"			"NeouB8"
 		"fgcolor_override" "BasWhite"
+		
 		if_match
 		{
-			"wide"			"0"
-			"visible"		"0"
+			"xpos"			"9999"
 		}
 	}	
 	"SetupBG"
@@ -236,15 +233,14 @@
 		
 		if_match
 		{
-			"wide"			"0"
-			"visible"		"0"
+			"xpos"			"9999"
 		}
 	}
 	"ServerTimeLimitLabel"
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"ServerTimeLimitLabel"
-		"xpos"			"16"
+		"xpos"			"15"
 		"ypos"			"16"
 		"zpos"			"5"
 		"wide"			"78"
@@ -272,5 +268,10 @@
 		"enabled"		"0"
 		"image"			"../hud/objectives_timepanel_suddendeath"	
 		"scaleImage"		"1"	
+		
+		if_match
+		{
+			"xpos"			"9999"
+		}
 	}
 }

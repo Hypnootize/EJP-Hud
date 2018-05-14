@@ -295,6 +295,8 @@
 
 		if_match
 		{
+			"xpos"				"c-52"
+			"ypos"				"11"
 			"zpos"				"5"
 		}
 		
@@ -316,7 +318,7 @@
 
 			if_match
 			{
-				"ypos"			"8"
+				
 			}
 		}	
 	}

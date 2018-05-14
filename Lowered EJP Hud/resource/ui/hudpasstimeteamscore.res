@@ -24,7 +24,7 @@
 		"tall"			"55"
 		"visible"		"0"
 		"enabled"		"1"
-		"image"			"replay/thumbnails/Bas_blue"
+		"image"			""
 		"scaleImage"	"1"	
 	}
 		
@@ -39,7 +39,7 @@
 		"tall"			"55"
 		"visible"		"0"
 		"enabled"		"1"
-		"image"			"replay/thumbnails/Bas_red"
+		"image"			""
 		"scaleImage"	"1"	
 	}
 	
