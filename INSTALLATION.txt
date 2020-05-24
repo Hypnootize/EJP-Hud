@@ -1,0 +1,7 @@
+**1)** Extract/Unzip the hud
+
+**2)** Choose between one of the 2 versions, Centered or Lowered.
+
+**3)** Copy the desired EJP Hud folder (**NOT** EJP-Hud-Master, either EJP Hud Centered or EJP Hud Lowered)
+
+**4)** Paste The folder to your custom tf folder (C:\Program Files (x86)\Steam\SteamApps\common\Team Fortress 2\tf\custom\EJP Hud Centered)
