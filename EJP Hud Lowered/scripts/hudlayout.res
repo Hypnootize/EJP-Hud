@@ -671,6 +671,18 @@
 		"wide"	"f0"
 		"tall"	"480"
 	}
+
+	HudWeaponAmmo
+	{
+		"fieldName" "HudWeaponAmmo"
+		"visible"   "1"
+		"enabled"   "1"
+		"xpos"      "c175"
+		"ypos"      "r90"
+		"zpos"      "2"
+		"wide"      "200"
+		"tall"      "100"
+	}
 	
 	HudObjectiveStatus
 	{
@@ -682,6 +694,43 @@
 		"wide"	"f0"
 		"tall"	"480"
 	}	
+
+	HudMedicCharge
+	{
+		"fieldName"		"HudMedicCharge"
+		"visible"		"1"
+		"enabled"		"1"
+		"xpos"			"c-292" // moved 42 to the right
+		"ypos"			"r41" //moved 20 up
+		"wide"			"300"
+		"tall"			"42"
+	}
+
+	HudDemomanCharge
+	{
+		"fieldName"		"HudDemomanCharge"
+		"visible"		"1"
+		"enabled"		"1"
+		"xpos"			"c-250"
+		"ypos"			"r21"
+		"zpos"			"5"
+		"wide"			"175"
+		"tall"			"12"
+		"MeterFG"		"White"
+		"MeterBG"		"Gray"
+	}
+
+	HudDemomanPipes
+	{
+		"fieldName"		"HudDemomanPipes"
+		"visible"		"1"
+		"enabled"		"1"
+		"xpos"			"c-250"
+		"ypos"			"r100"
+		"zpos"			"5"
+		"wide"			"200"
+		"tall"			"130"
+	}
 
 	HudBowCharge
 	{
@@ -773,6 +822,21 @@
 		"SelectionNumberFg"	"200 187 161 255"
 		"NumberFont" "HudSelectionText"
 	}	
+
+	CHudAccountPanel
+	{
+		"fieldName"				"CHudAccountPanel"
+		"xpos"					"r162"	[$WIN32]
+		"ypos"					"r152"	[$WIN32]
+		"ypos_minmode"			"r134"	[$WIN32]
+		"xpos"					"r194"	[$X360]
+		"ypos"					"r174"	[$X360]
+		"wide"					"116"
+		"tall"  				"180"
+		"visible" 				"1"
+		"enabled" 				"1"
+		"PaintBackgroundType"	"2"
+	}
 	
 	CHealthAccountPanel
 	{
@@ -781,6 +845,18 @@
 		"ypos"					"r150"
 		"wide"					"100"
 		"tall"  				"50"
+		"visible" 				"1"
+		"enabled" 				"1"
+		"PaintBackgroundType"	"2"
+	}
+
+	CDamageAccountPanel
+	{
+		"fieldName"				"CDamageAccountPanel"
+		"xpos"					"0"
+		"ypos"					"0"
+		"wide"					"f0"
+		"tall"					"480"
 		"visible" 				"1"
 		"enabled" 				"1"
 		"PaintBackgroundType"	"2"
@@ -889,6 +965,18 @@
 		"tall"		"480"
 		
 		"PaintBackgroundType"	"2"
+	}
+
+	"CurrencyStatusPanel"
+	{
+		"ControlName"		"CCurrencyStatusPanel"
+		"fieldName"			"CurrencyStatusPanel"
+		"xpos"				"c175"
+		"ypos"				"c200"
+		"wide"				"60"
+		"tall"				"16"
+		"visible" 			"1"
+		"enabled" 			"1"
 	}
 	
 	HudProgressBar

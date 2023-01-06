@@ -1,23 +1,23 @@
 "Resource/HudLayout.res"
 {
-    /////////////////////////////// CROSSHAIRS //////////////////////////////////	
+    /////////////////////////////// CROSSHAIRS //////////////////////////////////
 
-	
+
 	/////////////////////////////////////////////////////////////////////////////
 	//////////////////////////////CUSTOM CROSSHAIRS//////////////////////////////
     /////////////////////////////////////////////////////////////////////////////
 	// The size of the following crosshairs can be changed by modifying the
-	// number following "Crosshairs", across from "font"	
+	// number following "Crosshairs", across from "font"
 	// Valid font sizes: even numbers between 8 and 40
 	//
 	// To add an outline to a crosshair, uncomment the "font" line of text
 	// and add "//" to the "font" line of text below it.
 	// Valid font sizes for outlined crosshairs: 18, 24, 26, 32, 34
 	//
-	// To change a color, change the 'fgcolor' value to your desired RGB color 
+	// To change a color, change the 'fgcolor' value to your desired RGB color
 	// value, White being '255 255 255 255" and Black "0 0 0 255".
 	/////////////////////////////////////////////////////////////////////////////
-	
+
 	SlyCrosshair
 	{
 		"controlName"				"CExLabel"
@@ -25,21 +25,21 @@
 		"visible"					"0"
 		"enabled"					"0"
 		"zpos"						"2"
-			
+
 		"xpos"						"c-99"
 		"ypos"						"c-99"
 		"wide"						"200"
 		"tall"						"200"
-			
+
 		//"font"					"EJPCrosshairs32Outline"
 		"font"						"EJPCrosshairs32"
 		"labelText"					"a"
 		"textAlignment"				"center"
 		"outline"					"1"
-					
+
 		"fgcolor"					"eBlue"
-	}	
-	
+	}
+
 	BastCrosshair
 	{
 		"controlName"				"CExLabel"
@@ -47,21 +47,21 @@
 		"visible"					"0"
 		"enabled"					"0"
 		"zpos"						"2"
-			
+
 		"xpos"						"c-99"
 		"ypos"						"c-99"
 		"wide"						"200"
 		"tall"						"200"
-			
+
 		//"font"					"EJPCrosshairs32Outline"
 		"font"						"EJPCrosshairs32"
 		"labelText"					"d"
 		"textAlignment"				"center"
 		"outline"					"1"
-					
+
 		"fgcolor"					"eBlue"
-	}	
-	
+	}
+
 	DotCrosshair
 	{
 		"controlName"				"CExLabel"
@@ -69,21 +69,21 @@
 		"visible"					"0"
 		"enabled"					"0"
 		"zpos"						"2"
-			
+
 		"xpos"						"c-99"
 		"ypos"						"c-99"
 		"wide"						"200"
 		"tall"						"200"
-			
+
 		//"font"					"EJPCrosshairs32Outline"
 		"font"						"EJPCrosshairs32"
 		"labelText"					"c"
 		"textAlignment"				"center"
 		"outline"					"1"
-					
+
 		"fgcolor"					"eBlue"
-	}	
-	
+	}
+
 	PointyCrosshair
 	{
 		"controlName"				"CExLabel"
@@ -91,21 +91,21 @@
 		"visible"					"0"
 		"enabled"					"0"
 		"zpos"						"2"
-			
+
 		"xpos"						"c-99"
 		"ypos"						"c-99"
 		"wide"						"200"
 		"tall"						"200"
-			
+
 		//"font"					"EJPCrosshairs32Outline"
 		"font"						"EJPCrosshairs32"
 		"labelText"					"h"
 		"textAlignment"				"center"
 		"outline"					"1"
-					
+
 		"fgcolor"					"eBlue"
 	}
-	
+
 	XCrosshair
 	{
 		"controlName"				"CExLabel"
@@ -113,21 +113,21 @@
 		"visible"					"0"
 		"enabled"					"0"
 		"zpos"						"2"
-			
+
 		"xpos"						"c-99"
 		"ypos"						"c-99"
 		"wide"						"200"
 		"tall"						"200"
-			
+
 		//"font"					"EJPCrosshairs32Outline"
 		"font"						"EJPCrosshairs32"
 		"labelText"					"i"
 		"textAlignment"				"center"
 		"outline"					"1"
-					
+
 		"fgcolor"					"eBlue"
 	}
-	
+
 	XDotCrosshair
 	{
 		"controlName"				"CExLabel"
@@ -135,21 +135,21 @@
 		"visible"					"0"
 		"enabled"					"0"
 		"zpos"						"2"
-			
+
 		"xpos"						"c-99"
 		"ypos"						"c-99"
 		"wide"						"200"
 		"tall"						"200"
-			
+
 		//"font"					"EJPCrosshairs32Outline"
 		"font"						"EJPCrosshairs32"
 		"labelText"					"j"
 		"textAlignment"				"center"
 		"outline"					"1"
-					
+
 		"fgcolor"					"eBlue"
 	}
-	
+
 	KonrCrosshair
 	{
 		"controlName"				"CExLabel"
@@ -157,22 +157,22 @@
 		"visible"					"0"
 		"enabled"					"0"
 		"zpos"						"2"
-			
+
 		"xpos"						"c-99"
 		"ypos"						"c-99"
 		"wide"						"200"
 		"tall"						"200"
-			
+
 		//"font"					"EJPCrosshairs32Outline"
 		"font"						"EJPCrosshairs32"
 		"labelText"					"f"
 		"textAlignment"				"center"
 		"outline"					"1"
-					
+
 		"fgcolor"					"eBlue"
-	}	
-	
-	
+	}
+
+
 	ScatterSpread
 	{
 		"controlName"				"CExLabel"
@@ -180,252 +180,252 @@
 		"visible"					"0"
 		"enabled"					"0"
 		"zpos"						"2"
-			
+
 		"xpos"						"c-99"
 		"ypos"						"c-99"
 		"wide"						"200"
 		"tall"						"200"
-			
+
 		//"font"					"CrosshairsOutline32"
 		"font"						"Crosshairs32"
 		"labelText"					"0"
 		"textAlignment"				"center"
 		"outline"					"1"
-					
+
 		"fgcolor"					"eBlue"
-	}		
-			
-	BasicCross		
-	{		
+	}
+
+	BasicCross
+	{
 		"controlName"				"CExLabel"
 		"fieldName"	 				"BasicCross"
 		"visible"					"0"
 		"enabled"					"0"
 		"zpos"						"2"
-		
+
 		"xpos"						"c-102"
 		"ypos"						"c-99"
 		"wide"						"200"
 		"tall"						"200"
-		
+
 		//"font"					"CrosshairsOutline26"
 		"font"						"Crosshairs26"
 		"labelText"					"2"
-		"textAlignment"				"center"	
-				
+		"textAlignment"				"center"
+
 		"fgcolor"					"eBlue"
-	}		
-			
-	BasicCrossSmall		
-	{		
+	}
+
+	BasicCrossSmall
+	{
 		"controlName"				"CExLabel"
 		"fieldName"	 				"BasicCrossSmall"
 		"visible"					"0"
 		"enabled"					"0"
 		"zpos"						"2"
-		
+
 		"xpos"						"c-101"
 		"ypos"						"c-99"
 		"wide"						"200"
 		"tall"						"200"
-		
+
 		//"font"					"CrosshairsOutline18"
 		"font"						"Crosshairs18"
 		"labelText"					"2"
-		"textAlignment"				"center"	
-				
-		"fgcolor"					"eBlue"
-	}		
+		"textAlignment"				"center"
 
-	BasicCrossLarge		
-	{		
+		"fgcolor"					"eBlue"
+	}
+
+	BasicCrossLarge
+	{
 		"controlName"				"CExLabel"
 		"fieldName"	 				"BasicCrossLarge"
 		"visible"					"0"
 		"enabled"					"0"
 		"zpos"						"2"
-		
+
 		"xpos"						"c-102"
 		"ypos"						"c-98"
 		"wide"						"200"
 		"tall"						"200"
-		
+
 		//"font"					"CrosshairsOutline32"
 		"font"						"Crosshairs32"
 		"labelText"					"2"
-		"textAlignment"				"center"	
-				
-		"fgcolor"					"eBlue"
-	}		
+		"textAlignment"				"center"
 
-	BasicDot		
-	{		
+		"fgcolor"					"eBlue"
+	}
+
+	BasicDot
+	{
 		"controlName"				"CExLabel"
 		"fieldName"	 				"BasicDot"
 		"visible"					"0"
 		"enabled"					"0"
 		"zpos"						"2"
-		
+
 		"xpos"						"c-103"
 		"ypos"						"c-100"
 		"wide"						"201"
 		"tall"						"201"
-		
+
 		//"font"					"CrosshairsOutline24"
 		"font"						"Crosshairs24"
 		"labelText"					"3"
-		"textAlignment"				"center"	
-				
+		"textAlignment"				"center"
+
 		"fgcolor"					"eBlue"
-	}		
-		
-	CircleDot		
-	{		
+	}
+
+	CircleDot
+	{
 		"controlName"				"CExLabel"
 		"fieldName"	 				"CircleDot"
 		"visible"					"0"
 		"enabled"					"0"
 		"zpos"						"2"
-		
+
 		"xpos"						"c-100"
 		"ypos"						"c-96"
 		"wide"						"200"
 		"tall"						"200"
-		
+
 		//"font"					"CrosshairsOutline34"
 		"font"						"Crosshairs34"
 		"labelText"					"8"
-		"textAlignment"				"center"	
-				
+		"textAlignment"				"center"
+
 		"fgcolor"					"eBlue"
-	}		
-			
-	ThinCircle		
-	{		
+	}
+
+	ThinCircle
+	{
 		"controlName"				"CExLabel"
 		"fieldName"	 				"ThinCircle"
 		"visible"					"0"
 		"enabled"					"0"
 		"zpos"						"2"
-		
+
 		"xpos"						"c-100"
 		"ypos"						"c-96"
 		"wide"						"200"
 		"tall"						"200"
-		
+
 		//"font"					"CrosshairsOutline34"
 		"font"						"Crosshairs34"
 		"labelText"					"9"
-		"textAlignment"				"center"	
-				
+		"textAlignment"				"center"
+
 		"fgcolor"					"eBlue"
-	}		
-			
-	WingsPlus		
-	{		
+	}
+
+	WingsPlus
+	{
 		"controlName"				"CExLabel"
 		"fieldName"	 				"WingsPlus"
 		"visible"					"0"
 		"enabled"					"0"
 		"zpos"						"2"
-		
+
 		"xpos"						"c-100"
 		"ypos"						"c-97"
 		"wide"						"200"
 		"tall"						"200"
-		
+
 		//"font"					"CrosshairsOutline34"
 		"font"						"Crosshairs34"
 		"labelText"					"c"
-		"textAlignment"				"center"	
-				
+		"textAlignment"				"center"
+
 		"fgcolor"					"eBlue"
-	}		
-			
-	Wings		
-	{		
+	}
+
+	Wings
+	{
 		"controlName"				"CExLabel"
 		"fieldName"	 				"Wings"
 		"visible"					"0"
 		"enabled"					"0"
 		"zpos"						"2"
-		
+
 		"xpos"						"c-100"
 		"ypos"						"c-97"
 		"wide"						"200"
 		"tall"						"200"
-		
+
 		//"font"					"CrosshairsOutline34"
 		"font"						"Crosshairs34"
 		"labelText"					"d"
-		"textAlignment"				"center"	
-				
+		"textAlignment"				"center"
+
 		"fgcolor"					"eBlue"
-	}		
-			
-	WingsSmallDot		
-	{		
+	}
+
+	WingsSmallDot
+	{
 		"controlName"				"CExLabel"
 		"fieldName"	 				"WingsSmallDot"
 		"visible"					"0"
 		"enabled"					"0"
 		"zpos"						"2"
-		
+
 		"xpos"						"c-106"
 		"ypos"						"c-99"
 		"wide"						"200"
 		"tall"						"200"
-		
+
 		//"font"					"CrosshairsOutline34"
 		"font"						"Crosshairs34"
 		"labelText"					"f"
-		"textAlignment"				"center"	
-				
+		"textAlignment"				"center"
+
 		"fgcolor"					"eBlue"
-	}		
-			
-	WingsSmall		
-	{		
+	}
+
+	WingsSmall
+	{
 		"controlName"				"CExLabel"
 		"fieldName"	 				"WingsSmall"
 		"visible"					"0"
 		"enabled"					"0"
 		"zpos"						"2"
-		
+
 		"xpos"						"c-100"
 		"ypos"						"c-97"
 		"wide"						"200"
 		"tall"						"200"
-		
+
 		//"font"					"CrosshairsOutline34"
 		"font"						"Crosshairs34"
 		"labelText"					"g"
-		"textAlignment"				"center"	
-				
+		"textAlignment"				"center"
+
 		"fgcolor"					"eBlue"
-	}		
-			
-	OpenCross		
-	{		
+	}
+
+	OpenCross
+	{
 		"controlName"				"CExLabel"
 		"fieldName"	 				"OpenCross"
 		"visible"					"0"
 		"enabled"					"0"
 		"zpos"						"2"
-		
+
 		"xpos"						"c-85"
 		"ypos"						"c-100"
 		"wide"						"199"
 		"tall"						"200"
-		
+
 		"font"						"CrosshairsOutline24"
 		"font"						"Crosshairs24"
 		"labelText"					"i"
-		"textAlignment"				"center"	
-				
+		"textAlignment"				"center"
+
 		"fgcolor"					"eBlue"
 	}
-	
+
 	OpenCrossDot
 	{
 		"controlName"				"CExLabel"
@@ -433,20 +433,20 @@
 		"visible"					"0"
 		"enabled"					"0"
 		"zpos"						"2"
-		
+
 		"xpos"						"c-85"
 		"ypos"						"c-100"
 		"wide"						"199"
 		"tall"						"200"
-		
+
 		//"font"					"CrosshairsOutline24"
 		"font"						"Crosshairs24"
 		"labelText"					"h"
-		"textAlignment"				"center"	
-				
+		"textAlignment"				"center"
+
 		"fgcolor"					"eBlue"
 	}
-	
+
 	ThinCross
 	{
 		"controlName"				"CExLabel"
@@ -454,29 +454,29 @@
 		"visible"					"0"
 		"enabled"					"0"
 		"zpos"						"2"
-		
+
 		"xpos"						"c-100"
 		"ypos"						"c-103"
 		"wide"						"200"
 		"tall"						"200"
-		
+
 		//"font"					"SymbolOutline24"
 		"font"						"Symbol24"
 		"labelText"					""
-		"textAlignment"				"center"	
-				
+		"textAlignment"				"center"
+
 		"fgcolor"					"eBlue"
 	}
 
-		
+
 	/////////////////////////////////////////////////////////////////////////////
 	// Pilot Crosshair
 	// >> Core Elements
 	/////////////////////////////////////////////////////////////////////////////
-	
+
 	//set "visible" and "enabled" to "1"
 	//This section is for all resolutions
-	
+
 	"PilotVertical"
 	{
 		"ControlName"				"ImagePanel"
@@ -491,10 +491,10 @@
 		"visible"					"0"			//1
 		"enabled"					"0"			//1
 		"fillcolor"					"255 255 255 50"
-	}		
-		
-	"PilotTop"		
-	{		
+	}
+
+	"PilotTop"
+	{
 		"ControlName"				"ImagePanel"
 		"fieldName"					"VerticalLine"
 		"xpos"						"c"
@@ -507,9 +507,9 @@
 		"visible"					"0"			//1
 		"enabled"					"0"			//1
 		"fillcolor"					"255 255 255 100"
-	}		
-	"PilotBottom"		
-	{		
+	}
+	"PilotBottom"
+	{
 		"ControlName"				"ImagePanel"
 		"fieldName"					"VerticalLine"
 		"xpos"						"c"
@@ -522,9 +522,9 @@
 		"visible"					"0"			//1
 		"enabled"					"0"			//1
 		"fillcolor"					"255 255 255 150"
-	}		
-	"PilotLeft"		
-	{		
+	}
+	"PilotLeft"
+	{
 		"ControlName"				"ImagePanel"
 		"fieldName"					"VerticalLine"
 		"xpos"						"c-62"
@@ -537,11 +537,11 @@
 		"visible"					"0"			//1
 		"enabled"					"0"			//1
 		"fillcolor"					"255 255 255 100"
-	}		
-			
-		
-	"PilotRight"		
-	{		
+	}
+
+
+	"PilotRight"
+	{
 		"ControlName"				"ImagePanel"
 		"fieldName"					"VerticalLine"
 		"xpos"						"c12"
@@ -555,13 +555,13 @@
 		"enabled"					"0"			//1
 		"fillcolor"					"255 255 255 100"
 	}
-	
+
 	/////////////////////////////////////////////////////////////////////////////
 	// Widescreen Pilot Crosshair
 	// Enable these (along with the "Core" section above)
 	// if you're on a widescreen resolution
 	/////////////////////////////////////////////////////////////////////////////
-	
+
 	"PilotHorizontal1"
 	{
 		"ControlName"				"ImagePanel"
@@ -576,10 +576,10 @@
 		"visible"					"0"			//1
 		"enabled"					"0"			//1
 		"fillcolor"					"255 255 255 50"
-	}		
-			
-	"PilotHorizontal2"		
-	{		
+	}
+
+	"PilotHorizontal2"
+	{
 		"ControlName"				"ImagePanel"
 		"fieldName"					"HorizontalLine"
 		"xpos"						"c12"
@@ -593,37 +593,37 @@
 		"enabled"					"0"			//1
 		"fillcolor"					"255 255 255 50"
 	}
-	
+
 	/////////////////////////////////////////////////////////////////////////////
 	//4 x 3 Pilot Crosshair
 	// Enable these (along with the "core" section above)
 	// if you're on a 4x3 resolution
 	/////////////////////////////////////////////////////////////////////////////
-	
+
 	"PilotHorizontal3"
 	{
 		"ControlName"				"ImagePanel"
 		"fieldName"					"HorizontalLine"
-		"xpos"						"c-296"			
+		"xpos"						"c-296"
 		"ypos"						"240"
 		"zpos"						"-5"
-		"wide"						"284"			
+		"wide"						"284"
 		"tall"						"1"
 		"autoResize"				"0"
 		"pinCorner"					"0"
 		"visible"					"0"			//1
 		"enabled"					"0"			//1
 		"fillcolor"					"255 255 255 50"
-	}		
-			
-	"PilotHorizontal4"		
-	{		
+	}
+
+	"PilotHorizontal4"
+	{
 		"ControlName"				"ImagePanel"
 		"fieldName"					"HorizontalLine"
 		"xpos"						"c12"
 		"ypos"						"240"
 		"zpos"						"-5"
-		"wide"						"284"			
+		"wide"						"284"
 		"tall"						"1"
 		"autoResize"				"0"
 		"pinCorner"					"0"
@@ -644,7 +644,7 @@
 		"enabled"		"1"
 		"alpha"			"100"
 	}
-	
+
 	"Crosshair"
 	{
 		"controlName"	"CExLabel"
@@ -660,7 +660,7 @@
 		"enabled" 		"1"
 		"textAlignment" "center"
 	}
-	
+
 	HudPlayerStatus
 	{
 		"fieldName" "HudPlayerStatus"
@@ -671,7 +671,19 @@
 		"wide"	"f0"
 		"tall"	"480"
 	}
-	
+
+	HudWeaponAmmo
+	{
+		"fieldName" "HudWeaponAmmo"
+		"visible"   "1"
+		"enabled"   "1"
+		"xpos"      "c95"
+		"ypos"      "r130"
+		"zpos"      "2"
+		"wide"      "200"
+		"tall"      "100"
+	}
+
 	HudObjectiveStatus
 	{
 		"fieldName" "HudObjectiveStatus"
@@ -681,7 +693,44 @@
 		"ypos"	"0"
 		"wide"	"f0"
 		"tall"	"480"
-	}	
+	}
+
+	HudDemomanCharge
+	{
+		"fieldName"		"HudDemomanCharge"
+		"visible"		"1"
+		"enabled"		"1"
+		"xpos"			"c-62"
+		"ypos"			"r113"
+		"zpos"			"5"
+		"wide"			"125"
+		"tall"			"8"
+		"MeterFG"		"White"
+		"MeterBG"		"Gray"
+	}
+
+	HudDemomanPipes
+	{
+		"fieldName"		"HudDemomanPipes"
+		"visible"		"1"
+		"enabled"		"1"
+		"xpos"			"c-62"
+		"ypos"			"r113"
+		"zpos"			"5"
+		"wide"			"200"
+		"tall"			"130"
+	}
+
+	HudMedicCharge
+	{
+		"fieldName"		"HudMedicCharge"
+		"visible"		"1"
+		"enabled"		"1"
+		"xpos"			"c-120" 
+		"ypos"			"r114" 
+		"wide"			"300"
+		"tall"			"42"
+	}
 
 	HudBowCharge
 	{
@@ -772,8 +821,23 @@
 		"SelectedBoxClor" "0 0 0 220"
 		"SelectionNumberFg"	"200 187 161 255"
 		"NumberFont" "HudSelectionText"
-	}	
-	
+	}
+
+	CHudAccountPanel
+	{
+		"fieldName"				"CHudAccountPanel"
+		"xpos"					"r162"	[$WIN32]
+		"ypos"					"r152"	[$WIN32]
+		"ypos_minmode"			"r134"	[$WIN32]
+		"xpos"					"r194"	[$X360]
+		"ypos"					"r174"	[$X360]
+		"wide"					"116"
+		"tall"  				"180"
+		"visible" 				"1"
+		"enabled" 				"1"
+		"PaintBackgroundType"	"2"
+	}
+
 	CHealthAccountPanel
 	{
 		"fieldName"				"CHealthAccountPanel"
@@ -785,14 +849,26 @@
 		"enabled" 				"1"
 		"PaintBackgroundType"	"2"
 	}
-	
+
+	CDamageAccountPanel
+	{
+		"fieldName"				"CDamageAccountPanel"
+		"xpos"					"0"
+		"ypos"					"0"
+		"wide"					"f0"
+		"tall"					"480"
+		"visible" 				"1"
+		"enabled" 				"1"
+		"PaintBackgroundType"	"2"
+	}
+
 	DisguiseStatus
 	{
 		"fieldName" "DisguiseStatus"
 		"visible"	"1"
 		"enabled"	"1"
 		"xpos"		"c-456"
-		"ypos"		"r123"	
+		"ypos"		"r123"
 		"wide"		"500"
 		"tall"		"200"
 	}
@@ -814,7 +890,7 @@
 			"x_offset"	"20"
 		}
 	}
-	
+
 	CSpectatorTargetID
 	{
 		"fieldName" 	"CSpectatorTargetID"
@@ -825,11 +901,11 @@
 		"wide"	 	"250"
 		"tall"	 	"25"
 		"priority"	"40"
-		
+
 		"x_offset" "20"
 		"y_offset" "20"
 	}
-	
+
 	CSecondaryTargetID
 	{
 		"fieldName" 	"CSecondaryTargetID"
@@ -848,7 +924,7 @@
 		}
 
 	}
-	
+
 	BuildingStatus_Spy
 	{
 		"fieldName" "BuildingStatus_Spy"
@@ -857,13 +933,13 @@
 		"xpos"		"0"	[$WIN32]
 		"ypos"		"0"	[$WIN32]
 		"xpos"		"32"	[$X360]
-		"ypos"		"16"	[$X360]		
+		"ypos"		"16"	[$X360]
 		"wide"		"640"
 		"tall"		"480"
-		
+
 		"PaintBackgroundType"	"2"
 	}
-	
+
 	BuildingStatus_Engineer
 	{
 		"fieldName" "BuildingStatus_Engineer"
@@ -873,10 +949,10 @@
 		"ypos"		"-50"
 		"wide"		"640"
 		"tall"		"480"
-		
+
 		"PaintBackgroundType"	"2"
 	}
-	
+
 	HudMannVsMachineStatus
 	{
 		"fieldName" "HudMannVsMachineStatus"
@@ -887,10 +963,22 @@
 		"zpos"		"1"
 		"wide"		"f0"
 		"tall"		"480"
-		
+
 		"PaintBackgroundType"	"2"
 	}
-	
+
+	"CurrencyStatusPanel"
+	{
+		"ControlName"		"CCurrencyStatusPanel"
+		"fieldName"			"CurrencyStatusPanel"
+		"xpos"				"c175"
+		"ypos"				"c200"
+		"wide"				"60"
+		"tall"				"16"
+		"visible" 			"1"
+		"enabled" 			"1"
+	}
+
 	HudProgressBar
 	{
 		"fieldName" "HudProgressBar"
@@ -905,7 +993,7 @@
 
 		"PaintBackgroundType"	"2"
 	}
-	
+
 	HudKothTimeStatus
 	{
 		"fieldName" "HudKothTimeStatus"
@@ -915,14 +1003,14 @@
 		"ypos"	"0"
 		"wide"	"200"
 		"tall"	"480"
-		
+
 		//"blue_active_xpos"			"36"
 		"blue_active_xpos"			"32"
-	
+
 		//"red_active_xpos"			"118"
 		"red_active_xpos"			"122"
-	}	
-	
+	}
+
 
 	HudRoundTimer
 	{
@@ -933,10 +1021,10 @@
 		"tall"  "40"
 		"visible" "1"
 		"enabled" "1"
-		
+
 		"PaintBackgroundType"	"2"
 
-		"FlashColor" "HudIcon_Red"		
+		"FlashColor" "HudIcon_Red"
 
 		"icon_xpos"		"0"
 		"icon_ypos"		"2"
@@ -944,7 +1032,7 @@
 		"digit_ypos"	"2"
 	}
 
-	HudScenarioIcon 
+	HudScenarioIcon
 	{
 		"fieldName" "HudScenarioIcon"
 		"xpos"	"c110"
@@ -956,9 +1044,9 @@
 
 		"PaintBackgroundType"	"2"
 
-		"IconColor"				"Hostage_Yellow"	
+		"IconColor"				"Hostage_Yellow"
 	}
-	
+
 	HudFlashlight
 	{
 		"fieldName" "HudFlashlight"
@@ -968,7 +1056,7 @@
 		"ypos"	"370"
 		"wide"	"102"
 		"tall"	"20"
-		
+
 		"text_xpos" "8"
 		"text_ypos" "6"
 		"TextColor"	"255 170 0 220"
@@ -976,19 +1064,19 @@
 		"PaintBackgroundType"	"2"
 	}
 
-	HudDamageIndicator 
-    { 
-        "fieldName" "HudDamageIndicator" 
-        "visible" "1" 
-        "enabled" "1" 
-        "MinimumWidth" "10" 
-        "MaximumWidth" "25" 
-        "StartRadius" "80" 
-        "EndRadius" "80" 
-        "MinimumHeight" "30" 
-        "MaximumHeight" "60" 
-        "MinimumTime" "1" 
-    } 
+	HudDamageIndicator
+    {
+        "fieldName" "HudDamageIndicator"
+        "visible" "1"
+        "enabled" "1"
+        "MinimumWidth" "10"
+        "MaximumWidth" "25"
+        "StartRadius" "80"
+        "EndRadius" "80"
+        "MinimumHeight" "30"
+        "MaximumHeight" "60"
+        "MinimumTime" "1"
+    }
 
 	HudCommentary
 	{
@@ -999,10 +1087,10 @@
 		"tall"  "50"
 		"visible" "1"
 		"enabled" "1"
-		
+
 		"PaintBackgroundType"	"2"
 		"BackgroundOverrideColor" "0 0 0 128"
-		
+
 		"bar_xpos"		"50"
 		"bar_ypos"		"20"
 		"bar_height"	"8"
@@ -1011,10 +1099,10 @@
 		"speaker_ypos"	"8"
 		"count_xpos_from_right"	"10"	// Counts from the right side
 		"count_ypos"	"8"
-		
+
 		"icon_texture"	"vgui/hud/icon_commentary"
 		"icon_xpos"		"0"
-		"icon_ypos"		"0"		
+		"icon_ypos"		"0"
 		"icon_width"	"40"
 		"icon_height"	"40"
 
@@ -1058,9 +1146,9 @@
 		"LineSpacing"	  "2"
 		"CornerRadius"	  "1"
 		"RightJustify"	  "1"	// If 1, draw notices from the right
-		
+
 		"TextFont"		"Gotham-Medium11"
-		
+
 		"TeamBlue"		"eBlue" 	// HUDBlueTeamSolid
 		"TeamRed"		"eRed" 	// HUDRedTeamSolid
 		"IconColor"		"HUDWhite"			// HudWhite
@@ -1069,7 +1157,7 @@
 		"BaseBackgroundColor"	"48 59 63 160"
 		"LocalBackgroundColor"	"eWhite"
 	}
-	
+
 	HudVehicle
 	{
 		"fieldName" "HudVehicle"
@@ -1148,12 +1236,12 @@
         "zpos"  "2"
         "xpos"                  "c-310"
         "ypos"                  "r97"
-               
+
         "TextFont"                      "Default"
         "ItemFont"                      "Default"
         "ItemFontPulsing"               "Default"
         }
-	
+
 	HudCloseCaption
 	{
 		"fieldName" "HudCloseCaption"
@@ -1176,7 +1264,7 @@
 
 
 
-	HudHistoryResource 
+	HudHistoryResource
 	{
 		"fieldName" "HudHistoryResource"
 		"visible" "0"
@@ -1269,7 +1357,7 @@
 		"wide"	 "640"
 		"tall"	 "480"
 	}
-	
+
 	HudScopeCharge
 	{
 		"fieldName" "HudScopeCharge"
@@ -1280,7 +1368,7 @@
 		"wide"	 "64"
 		"tall"	 "128"
 	}
-	
+
 	HudVoiceSelfStatus
 	{
 		"fieldName" "HudVoiceSelfStatus"
@@ -1307,21 +1395,21 @@
 		"tall" "400"
 
 		"item_wide"	"135"
-		
+
 		"show_avatar"		"0"
-		
+
 		"show_dead_icon"	"1"
 		"dead_xpos"			"1"
 		"dead_ypos"			"0"
 		"dead_wide"			"16"
 		"dead_tall"			"16"
-		
+
 		"show_voice_icon"	"1"
 		"icon_ypos"			"0"
 		"icon_xpos"			"15"
 		"icon_tall"			"16"
 		"icon_wide"			"16"
-		
+
 		"text_xpos"			"33"
 	}
 
@@ -1339,7 +1427,7 @@
 		"text_ypos"				"8"
 		"center_x"				"0"	// center text horizontally
 		"center_y"				"-1"	// align text on the bottom
-	}	
+	}
 
 	HudHintKeyDisplay
 	{
@@ -1358,7 +1446,7 @@
 
 		"PaintBackgroundType"	"2"
 	}
-	
+
 	overview
 	{
 		"fieldname" "overview"
@@ -1369,7 +1457,7 @@
 		"wide"	"640"
 		"tall"	"480"
 	}
-	
+
 	VguiScreenCursor
 	{
 		"fieldName" "VguiScreenCursor"
@@ -1404,12 +1492,12 @@
 		"enabled"				"1"
 		"icon_space"			"2"
 	}
-	
+
 	HUDAutoAim
 	{
 
-	}	
-	
+	}
+
 	HudHDRDemo
 	{
 
@@ -1436,7 +1524,7 @@
 		"wide"					"450"
 		"tall"					"218"
 	}
-	
+
 	PVEWinPanel
 	{
 		"fieldName"				"PVEWinPanel"
@@ -1458,7 +1546,7 @@
 		"wide"					"266"
 		"tall"					"120"
 	}
-	
+
 	FreezePanel
 	{
 		"fieldName"				"FreezePanel"
@@ -1491,10 +1579,10 @@
 		"wide"					"100"
 		"tall"					"50"
 	}
-	
+
 	AnnotationsPanel
 	{
-		
+
 	}
 
 	WaitingForPlayersPanel
@@ -1507,7 +1595,7 @@
 		"wide"					"292"
 		"tall"					"64"
 	}
-	
+
 	"HudUpgradePanel"
 	{
 		"fieldName"		"HudUpgradePanel"
@@ -1516,7 +1604,7 @@
 		"xpos"			"c-200"
 		"ypos"			"260"
 		"wide"			"400"
-		"tall"			"160"		
+		"tall"			"160"
 	}
 
 	"HudChat"
@@ -1532,7 +1620,7 @@
 		"tall"	 		"120"
 		"PaintBackgroundType"	"2"
 	}
-	
+
 	"HudMenuEngyBuild"
 	{
 		"fieldName" 	"HudMenuEngyBuild"
@@ -1544,7 +1632,7 @@
 		"tall"			"195"
 		"PaintBackgroundType"	"0"
 	}
-	
+
 	"HudMenuEngyDestroy"
 	{
 		"fieldName" 	"HudMenuEngyDestroy"
@@ -1556,7 +1644,7 @@
 		"tall"			"195"
 		"PaintBackgroundType"	"0"
 	}
-	
+
 	"HudEurekaEffectTeleportMenu"
 	{
 		"fieldName" 	"HudEurekaEffectTeleportMenu"
@@ -1568,7 +1656,7 @@
 		"tall"			"195"
 		"PaintBackgroundType"	"0"
 	}
-	
+
 	"HudMenuSpyDisguise"
 	{
 		"fieldName" 	"HudMenuSpyDisguise"
@@ -1687,7 +1775,7 @@
 		"wide"					"125"
 		"tall"					"55"
 	}
-	
+
 	NotificationPanel
 	{
 		"fieldName"				"NotificationPanel"
@@ -1699,7 +1787,7 @@
 		"tall"					"100"
 	}
 
-	AchievementNotificationPanel	
+	AchievementNotificationPanel
 	{
 		"fieldName"				"AchievementNotificationPanel"
 		"visible"				"1"
@@ -1713,7 +1801,7 @@
 
 	CriticalPanel [$WIN32]
 	{
-		"fieldName"				"CriticalPanel"		
+		"fieldName"				"CriticalPanel"
 		"visible"				"1"
 		"enabled"				"1"
 		"xpos"					"r155"
@@ -1721,10 +1809,10 @@
 		"wide"					"150"
 		"tall"					"25"
 	}
-	
+
 	HudArenaClassLayout [$WIN32]
 	{
-		"fieldName"				"HudArenaClassLayout"		
+		"fieldName"				"HudArenaClassLayout"
 		"visible"				"1"
 		"enabled"				"1"
 		"xpos"					"0"
@@ -1732,10 +1820,10 @@
 		"wide"					"f0"
 		"tall"					"320"
 	}
-	
+
 	HudArenaVsPanel [$WIN32]
 	{
-		"fieldName"				"HudArenaVsPanel"		
+		"fieldName"				"HudArenaVsPanel"
 		"visible"				"1"
 		"enabled"				"1"
 		"xpos"					"0"
@@ -1743,18 +1831,18 @@
 		"wide"					"f0"
 		"tall"					"240"
 	}
-	
+
 	HudArenaPlayerCount [$WIN32]
 	{
-		"fieldName"				"HudArenaPlayerCount"		
+		"fieldName"				"HudArenaPlayerCount"
 		"visible"				"1"
 		"enabled"				"1"
 		"xpos"					"0"
 		"ypos"					"0"
 		"wide"					"f0"
 		"tall"					"50"
-	}	
-	
+	}
+
 	"HudAchievementTracker"
 	{
 		"ControlName"	"EditablePanel"
@@ -1766,9 +1854,9 @@
 		"wide"			"200"
 		"tall"			"280"
 		"visible"		"1"
-		"enabled"		"1"	
+		"enabled"		"1"
 	}
-	
+
 	HudTrainingInfoMsg
 	{
 		"fieldName"				"HudTrainingInfoMsg"
@@ -1779,15 +1867,15 @@
 		"wide"					"200"
 		"tall"					"300"
 	}
-	
+
 	HudTrainingMsg
 	{
-		
+
 	}
-	
+
 	TrainingComplete
 	{
-		
+
 	}
 
 	HudInspectPanel
@@ -1801,7 +1889,7 @@
 		"wide"					"190"
 		"tall"					"f0"
 	}
-	
+
 	HudTFCrosshair
 	{
 		"fieldName" "HudTFCrosshair"
@@ -1810,7 +1898,7 @@
 		"wide"	 "640"
 		"tall"	 "480"
 	}
-	
+
 	ItemQuickSwitchPanel
 	{
 		"fieldName"				"ItemQuickSwitchPanel"
@@ -1821,14 +1909,14 @@
 		"wide"			"250"
 		"tall"			"160"
 	}
-	
+
 	ReplayReminder
 	{
 		"fieldName"		"ReplayReminder"
 		"visible"		"0"
 		"enable"		"1"
 	}
-	
+
 	MainMenuAdditions
 	{
 		"fieldName"		"MainMenuAdditions"
@@ -1839,7 +1927,7 @@
 		"zpos"			"0"
 		"wide"			"300"
 		"tall"			"100"
-	}	
+	}
 
 	CoachedByPanel
 	{
@@ -1874,11 +1962,11 @@
 		"wide"			"200"
 		"tall"			"0"
 	}
-	
+
 	"CHudVote"
 	{
 		"fieldName"		"CHudVote"
-		"xpos"			"0"			
+		"xpos"			"0"
 		"ypos"			"0"
 		"wide"			"640"
 		"tall"			"480"
@@ -1924,7 +2012,7 @@
 		"tall"	 		"40"
 		"priority"		"40"
 	}
-	
+
 	"HudMenuTauntSelection"
 	{
 		"fieldName" 	"HudMenuTauntSelection"
@@ -1936,7 +2024,7 @@
 		"tall"			"200"
 		"PaintBackgroundType"	"0"
 	}
-	
+
 	"ItemAttributeTracker"
 	{
 		"fieldName" 	"ItemAttributeTracker"
@@ -1959,7 +2047,7 @@
 		"wide"	"f0"
 		"tall"	"480"
 	}
-	
+
 	"QuestNotificationPanel"
 	{
 		"fieldName"	"QuestNotificationPanel"
@@ -2016,7 +2104,7 @@
 		"wide"					"f0"
 		"tall"					"f0"
 	}
-	
+
 	"QueueHUDStatus"
 	{
 		"fieldName"				"QueueHUDStatus"

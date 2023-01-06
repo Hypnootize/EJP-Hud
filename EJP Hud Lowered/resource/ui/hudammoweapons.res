@@ -1,17 +1,5 @@
 "Resource/UI/HudAmmoWeapons.res"
 {
-        HudWeaponAmmo
-        {
-                "fieldName" "HudWeaponAmmo"
-                "visible"   "1"
-                "enabled"   "1"
-                "xpos"      "c175"
-                "ypos"      "r90"
-                "zpos"      "2"
-                "wide"      "200"
-                "tall"      "100"
-        }
-       
         "AmmoLabel"
         {
                 "ControlName"   "Label"

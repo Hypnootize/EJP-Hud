@@ -59,21 +59,6 @@
 		"enabled"		"0"
 		"tabPosition"	"0"
 	}
-	
-	"scoutcountBG2"
-		{
-			"ControlName"	"CTFImagePanel"
-			"fieldName"		"scoutcountBG2"
-			"xpos"			"c-242"
-			"ypos"			"c-30"
-			"zpos"			"4"
-			"wide"			"45"
-			"tall"			"45"
-			"visible"		"0"
-			"enabled"		"1"
-			"image"			"hexagon"
-			"alpha"			"245"
-	}
 	"scoutcountBG"
 	{
 		"ControlName"   "CExLabel"

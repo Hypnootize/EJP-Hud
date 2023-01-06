@@ -1,16 +1,5 @@
 "Resource/UI/HudMedicCharge.res"
 {
-	HudMedicCharge
-	{
-		"fieldName"		"HudMedicCharge"
-		"visible"		"1"
-		"enabled"		"1"
-		"xpos"			"c-292" // moved 42 to the right
-		"ypos"			"r41" //moved 20 up
-		"wide"			"300"
-		"tall"			"42"
-	}
-	
 	"Background"
 	{
 		"ControlName"	"CTFImagePanel"

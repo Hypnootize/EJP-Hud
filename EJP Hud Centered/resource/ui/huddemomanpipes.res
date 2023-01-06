@@ -1,16 +1,6 @@
 "Resource/UI/HudDemomanPipes.res"
 {
-	HudDemomanPipes
-	{
-		"fieldName"		"HudDemomanPipes"
-		"visible"		"1"
-		"enabled"		"1"
-		"xpos"			"c-62"
-		"ypos"			"r113"
-		"zpos"			"5"
-		"wide"			"200"
-		"tall"			"130"
-	}	
+		
 	
 	"background"
 	{

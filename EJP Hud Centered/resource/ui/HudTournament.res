@@ -362,31 +362,6 @@
 			"visible"		"0"
 		}
 	}
-	"NameCustomBG"
-	{
-		"ControlName"	"CTFImagePanel"
-		"fieldName"		"NameCustomBG"
-		"xpos"			"c-125"
-		"ypos"			"15"
-		"zpos"			"0"
-		"wide"			"100"
-		"tall"			"100"
-		"visible"		"0"
-		"enabled"		"1"
-		"image"			"classseln070"
-		"alpha"			"255"
-		"drawcolor"     "eBlueT"
-			
-		if_competitive
-		{
-			"visible"		"0"
-		}
-
-		if_readymode
-		{
-			"visible"		"0"
-		}
-    }
 	"BlueBG"
 	{
 		"ControlName"	"ImagePanel"

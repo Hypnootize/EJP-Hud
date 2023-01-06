@@ -1,19 +1,5 @@
 "Resource/UI/HudDemomanCharge.res"
 {
-	HudDemomanCharge
-	{
-		"fieldName"		"HudDemomanCharge"
-		"visible"		"1"
-		"enabled"		"1"
-		"xpos"			"c-250"
-		"ypos"			"r21"
-		"zpos"			"5"
-		"wide"			"175"
-		"tall"			"12"
-		"MeterFG"		"White"
-		"MeterBG"		"Gray"
-	}
-	
 	"ChargeLabelText"
 	{
 		"ControlName"	"Label"
